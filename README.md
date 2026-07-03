@@ -162,3 +162,18 @@ Machine Learning Enthusiast
 
 ---
 
+# Acknowledgements
+
+- Scikit-learn Documentation
+- Mall Customer Segmentation Dataset
+
+---
+
+# License
+
+This project has been developed for educational and learning purposes as part of the **SkillCraft Technology Machine Learning Internship**.
+
+---
+
+⭐ **If you found this project helpful, consider giving it a Star!**
+
