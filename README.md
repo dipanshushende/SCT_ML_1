@@ -162,6 +162,3 @@ Machine Learning Enthusiast
 
 ---
 
-## License
-
-This project is intended for educational and learning purposes.
